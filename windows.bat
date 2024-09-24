@@ -3,7 +3,7 @@ chcp 65001
 cd C:\Windows\System32
 cls
 echo ==========================================================
-cscript slmgr.vbs /ipk WX4NM-KYWYW-QJJR4-XV3QB-6VM33           
+cscript slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX        
 echo ==========================================================
 cscript slmgr.vbs /skms jameshost.org
 echo ==========================================================
